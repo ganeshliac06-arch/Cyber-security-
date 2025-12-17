@@ -1,0 +1,5 @@
+{
+  "name": "SecureVault",
+  "description": "A secure, client-side password manager demonstrating encryption, hashing, and brute-force protection principles using Web Crypto API.",
+  "requestFramePermissions": []
+}
